@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567622123 source:c:\users\user\desktop\trabajo practico numero1\trabajo practico numero1.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo Practico numero1.h"
+
+1567621800 c:\users\user\desktop\trabajo practico numero1\trabajo practico numero1.h
+
+1567622062 source:c:\users\user\desktop\trabajo practico numero1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo Practico numero1.h"
+
